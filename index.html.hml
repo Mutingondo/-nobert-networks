@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Norbert Networks</title>
+</head>
+<body>
+	<section class="hero">
+		<div class="container">
+			<h2>Welcome to Norbert Networks</h2>
+			<p>We provide network configuration, installation and support services to businesses and individuals.</p>
+			<a class="button" href="mailto:nobertmutingondo@yahoo.com">Contact Us</a>
+		</div>
+	</section>
+	
+	<section class="services">
+		<div class="container">
+			<h2>Our services</h2>
+			<div class="row">
+				<div class="col">
+					<h3>Network Configuration</h3>
+					<p>We help you set up a reliable and secure network for your office or home.</p>
+				</div>
+				<div class="col">
+					<h3>Installation</h3>
+					<p>We install hardware
